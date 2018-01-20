@@ -3,8 +3,7 @@
  -
  -You can load (and reload) this file in the interpreter with the command: ":l 2-starting-out.hs"
  -
- -The first function has been completed as an example. All the other functions are undefined.
- -They can be implemented in one line using the material covered in http://learnyouahaskell.com/starting-out
+ -All functions can be implemented in one line using the material covered in http://learnyouahaskell.com/starting-out
  -
  -All indices are zero based.
  -}
