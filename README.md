@@ -3,7 +3,7 @@
 Some exercises as a companion for the book [Learn You a Haskell For Great Good!](http://learnyouahaskell.com/)
 
 A port of [Noel Markham](https://github.com/noelmarkham)'s 
-[original exercises](https://github.com/noelmarkham/learn-you-a-haskell-exercises), for the exercises to be arranged
+[original exercises](https://github.com/noelmarkham/learn-you-a-haskell-exercises), so as to have the exercises arranged
 "a-la-[fpinscala](https://github.com/fpinscala/fpinscala)".
 
 ```
