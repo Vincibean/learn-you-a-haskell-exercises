@@ -10,7 +10,7 @@
  -}
 
 -- Find the penultimate element in list l
-penultimate l = last (init l)
+penultimate l = undefined
 
 -- Find the element at index k in list l
 -- For example: "findK 2 [0,0,1,0,0,0]" returns 1
