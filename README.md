@@ -2,6 +2,10 @@
 
 Some exercises as a companion for the book [Learn You a Haskell For Great Good!](http://learnyouahaskell.com/)
 
+A port of [Noel Markham](https://github.com/noelmarkham)'s 
+[original exercises](https://github.com/noelmarkham/learn-you-a-haskell-exercises), for the exercises to be arranged
+"a-la-[fpinscala](https://github.com/fpinscala/fpinscala)".
+
 ```
 Exercises Copyright (c) Noel Markham 2012-2017
 
